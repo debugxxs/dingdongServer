@@ -1,0 +1,14 @@
+{
+  "app_name": "dindong",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": "9000",
+  "database": {
+    "drive": "mysql",
+    "db_name": "dindong",
+    "db_user": "root",
+    "db_pass": "aa123456",
+    "show_sql": true,
+    "char_set": "utf8"
+  }
+}
